@@ -1,0 +1,15 @@
+{
+  "name": "snake__game",
+  "version": "1.0.0",
+  "description": "Snake game built with Vanilla JavaScript and with a little touch of nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "author": "Isrealsix",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
